@@ -1,0 +1,14 @@
+.DS_Store
+.env
+.venv/
+.cursor/
+.pytest_cache/
+.coverage
+build/
+dist/
+*.egg-info/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
